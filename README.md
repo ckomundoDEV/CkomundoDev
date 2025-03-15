@@ -40,9 +40,19 @@ Especializado en **React**, **Next.js**, **TypeScript**, **Material UI**, **Ant 
 
 ## 📈 Estadísticas de GitHub
 
+<!--
+  Estas tarjetas provienen de https://github.com/vn7n24fzkq/github-profile-summary-cards
+  Asegúrate de haber configurado el Action que genera los .svg, o usa las URLs oficiales.
+-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ckomundoDEV&show_icons=true&theme=radical" alt="GitHub Stats de Fausto" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckomundoDEV&layout=compact&theme=radical" alt="Lenguajes más usados" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ckomundoDEV&theme=radical" alt="Estadísticas globales (commits, PRs, issues, etc.)" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ckomundoDEV&theme=radical" alt="Lenguajes por repositorio" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ckomundoDEV&theme=radical" alt="Lenguajes con más commits" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ckomundoDEV&theme=radical&utcOffset=8" alt="Tiempo productivo" width="40%"/>
 </p>
 
 ---
